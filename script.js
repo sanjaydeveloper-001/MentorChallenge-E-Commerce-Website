@@ -374,7 +374,7 @@ function GetCount(Count){
             cartcountedno.textContent=Oc;
             cartcountedno.style.display='none';
             Total.textContent=Oc*125;
-        
+            CartBox.style.display='none';
     })
 
 
